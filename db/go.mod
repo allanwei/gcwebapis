@@ -4,7 +4,6 @@ require (
 	cloud.google.com/go v0.29.0 // indirect
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/allanwei/gcwebapis-config v1.0.0
-	github.com/allanwei/gcwebapis/config v0.0.0-20181004023913-9da1c5e98cd6
 	github.com/bitly/go-simplejson v0.5.0 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20180901172138-1eb28afdf9b6

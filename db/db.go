@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/allanwei/gcwebapis-config"
+	config "github.com/allanwei/gcwebapis-config"
 
 	//Add mssql driver
 	"database/sql"
